@@ -35,3 +35,5 @@ Once the preprocessing of the dataset is done we can now use a classifier to tra
 To check the predictions on the testing dataset we first take the gray scale value of the face in the image, store in a 2 D array, flatten the array and then transform it using our PCA which we fitted earlier. Once we get the transformed array we predict the label for the test image and print it out.
 
 The above classification model worked very well. The testing dataset consisted of 15 images, and it recognized correctly in all the cases. 
+
+https://geekinsideyou.wordpress.com/2015/10/14/face-recognition-using-machine-learning-concepts-such-as-svm-and-pca/
