@@ -1,4 +1,7 @@
 # Face-Recogntion
+
+![](https://cloud.githubusercontent.com/assets/7795956/12538501/ff0879ba-c300-11e5-9f42-7efc95d1ebf8.png)
+
 Problem statement
 Facial recognition is an important and more preferred bio metric when compared to other bio metrics. One of the primary reason is that it requires no physical interaction on behalf of the user. For face recognition there are two types of comparisons:
 
