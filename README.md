@@ -36,4 +36,4 @@ To check the predictions on the testing dataset we first take the gray scale val
 
 The above classification model worked very well. The testing dataset consisted of 15 images, and it recognized correctly in all the cases. 
 
-https://geekinsideyou.wordpress.com/2015/10/14/face-recognition-using-machine-learning-concepts-such-as-svm-and-pca/
+http://www.geekinsideyou.com/2015/10/14/face-recognition-using-machine-learning-concepts-such-as-svm-and-pca/
